@@ -12,8 +12,8 @@ Someone sent this in DiObfuskator discord server so I decided to gass it instead
 3. Start the game (with Fabric)
 
 # Credits
-??? - Making this client.
-3000IQPlay - Cracking.
+??? - Making this client. </br>
+3000IQPlay - Cracking. </br>
 [fonzixd](https://guns.lol/fonzi) - Jar.
 
 
