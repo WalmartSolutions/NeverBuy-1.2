@@ -8,12 +8,12 @@ Someone sent this in DiObfuskator discord server so I decided to gass it instead
 
 # How To Use
 1. Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.16.5 & Fabric Loader 0.15.X
-2. Download NeverBuy-1.2-1.16.5.jar from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.42.0+1.16) page and put it into your .minecraft/mods folder
+2. Download lithium-fabric-mc1.16.5-0.6.6_7.jar (NeverBuy) from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.42.0+1.16) page and put it into your .minecraft/mods folder
 3. Start the game (with Fabric)
 
 # Credits
-??? - Making this client.
-3000IQPlay - Cracking.
+??? - Making this client. </br>
+3000IQPlay - Cracking. </br>
 [fonzixd](https://guns.lol/fonzi) - Jar.
 
 
