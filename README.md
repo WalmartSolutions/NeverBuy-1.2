@@ -18,4 +18,4 @@ Someone sent this in DiObfuskator discord server so I decided to gass it instead
 
 
 # GUI (Bind: RCtrl)
-![image](https://ibb.co/x5m2p1Z)
+![image]()
